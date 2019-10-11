@@ -24,4 +24,3 @@ def hitung_daya(usaha, waktu):
 # waktu = 3 * 60
 daya = hitung_daya(18000, 3 * 60)
 daya = hitung_daya(30000, 5 * 60)
-
